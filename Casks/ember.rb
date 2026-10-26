@@ -1,13 +1,13 @@
 cask "ember" do
   on_arm do
-    url "https://github.com/4SIGHTalgo/ember-desktop/releases/download/v0.2.7/Ember_0.2.7_aarch64.dmg"
-    sha256 "020630282ca2bec0bbe06e78ce2774ce320210bffb558e7bd9b062fba4c2cb02"
+    url "https://github.com/4SIGHTalgo/ember-desktop/releases/download/v0.2.8/Ember_0.2.8_aarch64.dmg"
+    sha256 "d8afbce54212e44d7d079a15a61a8051f34176578fa6fd94b2989ee6211f04a0"
   end
   on_intel do
-    url "https://github.com/4SIGHTalgo/ember-desktop/releases/download/v0.2.7/Ember_0.2.7_x64.dmg"
-    sha256 "53e9f8d671be6fb4c1b6ab469447cf21e20a5f046f77d3a6905ac8ea337a6be0"
+    url "https://github.com/4SIGHTalgo/ember-desktop/releases/download/v0.2.8/Ember_0.2.8_x64.dmg"
+    sha256 "3bbd32fd1a16f4158767cb830ec4ab034aa94df67d06f486a4a36d768785933f"
   end
-  version "0.2.7"
+  version "0.2.8"
   name "Ember"
   desc "Live table-tennis signal client"
   homepage "https://getembersignals.com"
